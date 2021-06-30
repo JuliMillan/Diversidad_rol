@@ -10,6 +10,8 @@ https://docs.google.com/forms/d/1Npb7nu5_SuFwlNryJy29qI7u6O1v9MjpjSMmDfA0M5k/edi
 
 Se compartió principalmente en twitter, por lo que tampoco creo que los resultados que obtuve sean representativos de la población general, pero me parece que es una herramienta útil para visibilizar que los grupos de rol no son siempre un montón de varones hetero-cis, como se los representa normalmente.
 
+![palabras](https://user-images.githubusercontent.com/66881995/123962525-f0481400-d987-11eb-9fbd-198b4f1ccdd8.png)
+
 -------------
 
 This mini-project was born with the idea of analyzing numbers about women's participation in role-playing games --specifically D&D, which is the one I play--, simply to practice a bit about data visualization and analysis.
