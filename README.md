@@ -16,3 +16,5 @@ This mini-project was born with the idea of analyzing numbers about women's part
 
 So I started looking for statistics on the subject; I found little information and, in general, limited to english-written sources and focused only in men and women, without naming any nonconformist identities.
 I thought this wasn't really representative of my own environment, so I decided to make a survey about sexual and gender diversity in role-playing games (only available in Spanish).
+
+It was mostly shared on twitter, so I don't truly believe either that the results I got are representative of the general population, but I do think it's a useful tool to show that role-playing groups are not always a bunch of hetero-cis guys, as they are usually represented.
